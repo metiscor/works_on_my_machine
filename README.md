@@ -1,2 +1,9 @@
-# works_on_my_machine
-no need to read here really.
+# hey.
+
+i make things.
+
+sometimes they work.
+
+sometimes they don't.
+
+either way, i'll figure it out.
